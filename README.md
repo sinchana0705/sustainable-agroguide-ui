@@ -33,9 +33,10 @@ Sustainable AgroGuide provides:
 ![Products](assets/products.png)
 
 ## 🔗 Figma Prototype
-(Paste your Figma share link here)
+https://www.figma.com/design/qf0NkCtOpXytsH22JGsPC3/aec?node-id=0-1&t=R3A5ZWB7yt33IOVg-1
 
 ## 🚀 Future Improvements
 - Convert prototype into a full-stack web application
 - Add backend for farmer data tracking
+
 - Implement real-time pest alert system
